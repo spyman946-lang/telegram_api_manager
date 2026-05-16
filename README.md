@@ -1,1 +1,0 @@
-# telegram_api_manager
